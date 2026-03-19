@@ -1,3 +1,10 @@
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
+<!-- Greet Line Comes Here -->
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
+</p>
 
 # Hi, I'm Mayank Gupta 👋
 
@@ -15,7 +22,13 @@ I enjoy solving real-world problems using data and continuously improving my ana
 
 ---
 
-## 🛠 Technical Skills
+<!-- Language and Tools Section Here -->
+<h1 align="left">🛠 Language and Tools</h1>
+
+<!-- Vector Tool Gif -->
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- Vector Tool Gif Ends -->
 
 ### 📊 Data Analysis
 - Pandas
@@ -23,7 +36,7 @@ I enjoy solving real-world problems using data and continuously improving my ana
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-
+- 
 ### 📈 Data Visualization
 - Matplotlib
 - Seaborn

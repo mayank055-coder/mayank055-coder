@@ -73,13 +73,13 @@ Developed a scalable anime recommendation system leveraging machine learning tec
 - Designed an interactive interface for real-time user input and recommendations
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-📧 Email: mayankguptag055@gmail.com  
-🔗 LinkedIn:www.linkedin.com/in/mayank-gupta-data-analyst
-📊 Kaggle: https://www.kaggle.com/mayank024
+[![Email](https://img.shields.io/badge/Email-mayankguptag055%40gmail.com-red?logo=gmail)](mailto:mayankguptag055@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Gupta-blue?logo=linkedin)](https://www.linkedin.com/in/mayank-gupta-data-analyst)
+[![Kaggle](https://img.shields.io/badge/Kaggle-mayank024-blue?logo=kaggle)](https://www.kaggle.com/mayank024)</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank055-coder&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank055-coder&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank055-coder&layout=compact&theme=radical)
 

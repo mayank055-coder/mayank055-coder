@@ -8,14 +8,14 @@
 
 # Hi, I'm Mayank Gupta 👋
 
-🎓 BCA Student | Aspiring Data Analyst  
+🎓 BCA Student | Data Analyst  
 📊 Turning raw data into actionable insights  
 
 ---
 
 ## 🚀 About Me
 
-I am an aspiring Data Analyst with hands-on experience in Python, SQL, and Power BI.  
+I am an Data Analyst with hands-on experience in Python, SQL, and Power BI.  
 I have worked on data cleaning, exploratory data analysis, and basic machine learning models to extract meaningful business insights.
 
 I enjoy solving real-world problems using data and continuously improving my analytical skills.

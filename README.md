@@ -8,16 +8,19 @@
 
 # Hi, I'm Mayank Gupta 👋
 
-🎓 BCA Student | Data Analyst  
-📊 Turning raw data into actionable insights  
+- 🎓 BCA Student | Data Analyst
+- 📊 Learning Data Science & Machine Learning
+- 💡 Passionate about solving real-world problems using data
+- 📈 Currently working on Data Analysis & ML Projects
+  
 
 ---
 
 ## 🚀 About Me
 
-Computer Applications undergraduate in Data Science and Machine Learning. Skilled in Python, SQL, and data analysis, with experience in developing end-to-end data-driven applications.
-Strong foundation in statistical analysis, model development, and data preprocessing. Passionate about solving complex problems through scalable and efficient solutions.
-Focused on continuous learning and building impactful systems driven by data.
+- Computer Applications undergraduate in Data Science and Machine Learning. Skilled in Python, SQL, and data analysis, with experience in developing end-to-end data-driven applications.
+- Strong foundation in statistical analysis, model development, and data preprocessing. Passionate about solving complex problems through scalable and efficient solutions.
+- Focused on continuous learning and building impactful systems driven by data.
 
 
 <!-- Language and Tools Section Here -->

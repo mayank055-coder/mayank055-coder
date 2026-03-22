@@ -15,11 +15,9 @@
 
 ## 🚀 About Me
 
-I am an Data Analyst with hands-on experience in Python, SQL, and Power BI.  
-I have worked on data cleaning, exploratory data analysis, and basic machine learning models to extract meaningful business insights.
-
-I enjoy solving real-world problems using data and continuously improving my analytical skills.
-
+Computer Applications undergraduate in Data Science and Machine Learning. Skilled in Python, SQL, and data analysis, with experience in developing end-to-end data-driven applications.
+Strong foundation in statistical analysis, model development, and data preprocessing. Passionate about solving complex problems through scalable and efficient solutions.
+Focused on continuous learning and building impactful systems driven by data.
 ---
 
 <!-- Language and Tools Section Here -->
@@ -30,6 +28,29 @@ I enjoy solving real-world problems using data and continuously improving my ana
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!-- Vector Tool Gif Ends -->
 
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Graphs-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Basics-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-Model-blue)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Classification-green)
+![KNN](https://img.shields.io/badge/KNN-Algorithm-orange)
+![Label Encoding](https://img.shields.io/badge/Label%20Encoding-Preprocessing-yellow)
+![Train Test Split](https://img.shields.io/badge/Train--Test%20Split-Data%20Splitting-purple)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-Accuracy%20%7C%20Confusion%20Matrix-red)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-Data%20Analysis-green?logo=microsoft-excel)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?logo=github)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 # 📊 Data Analysis
 - Pandas
 - NumPy
@@ -82,3 +103,7 @@ I enjoy solving real-world problems using data and continuously improving my ana
 📧 Email: mayankguptag055@gmail.com  
 🔗 LinkedIn:www.linkedin.com/in/mayank-gupta-data-analyst
 📊 Kaggle: https://www.kaggle.com/mayank024
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank055-coder&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank055-coder&layout=compact&theme=radical)

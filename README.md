@@ -18,7 +18,7 @@
 Computer Applications undergraduate in Data Science and Machine Learning. Skilled in Python, SQL, and data analysis, with experience in developing end-to-end data-driven applications.
 Strong foundation in statistical analysis, model development, and data preprocessing. Passionate about solving complex problems through scalable and efficient solutions.
 Focused on continuous learning and building impactful systems driven by data.
----
+
 
 <!-- Language and Tools Section Here -->
 <h1 align="left">🛠 Language and Tools</h1>
@@ -27,8 +27,6 @@ Focused on continuous learning and building impactful systems driven by data.
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!-- Vector Tool Gif Ends -->
-
-## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
@@ -51,36 +49,6 @@ Focused on continuous learning and building impactful systems driven by data.
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?logo=github)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-# 📊 Data Analysis
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- 
-### 📈 Data Visualization
-- Matplotlib
-- Seaborn
-- Power BI
-
-### 🗄 Database
-- SQL (Joins, Group By, Subqueries, Aggregations)
-
-### 🤖 Machine Learning (Basics)
-- Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Label Encoding
-- Train-Test Split
-- Model Evaluation (Accuracy, Confusion Matrix)
-
-### 💻 Tools & Platforms
-- MS Excel
-- Git
-- GitHub
-- Jupyter Notebook
-
----
 
 ## 📌 Featured Projects
 
@@ -107,3 +75,5 @@ Focused on continuous learning and building impactful systems driven by data.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank055-coder&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank055-coder&layout=compact&theme=radical)
+
+![Snake animation](https://github.com/mayank055-coder/mayank055-coder/blob/output/github-contribution-grid-snake.svg)

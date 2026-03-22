@@ -55,18 +55,22 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Retail Customer Behavior Analysis
-- Cleaned and analyzed customer transaction data using Pandas & NumPy
-- Performed SQL queries to extract revenue and sales insights
-- Built an interactive Power BI dashboard with KPIs
-- Identified customer segments and purchasing trends
+### 📊 End-to-End Data Analysis
+Executed a comprehensive data analysis pipeline on datasets exceeding 10,000 rows to extract actionable business insights.
 
-### 🔹 Movie Recommendation System
-- Built a content-based recommendation model using similarity techniques
-- Processed dataset from Kaggle
-- Implemented using Python and Pandas
-- Generated personalized movie suggestions
+- Conducted Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, and Seaborn
+- Cleaned and transformed raw data for improved analysis accuracy
+- Built interactive dashboards using Power BI
+- Derived meaningful insights to support data-driven decision-making
 
+### 🎌 Anime Recommendation System
+Developed a scalable anime recommendation system leveraging machine learning techniques on a dataset containing 10,000+ anime records.
+
+- Implemented content-based filtering using similarity metrics to generate personalized recommendations
+- Performed extensive data preprocessing, including handling missing values and feature engineering
+- Utilized algorithms such as cosine similarity and KNN to improve recommendation relevance
+- Optimized performance for faster retrieval of top-N recommendations
+- Designed an interactive interface for real-time user input and recommendations
 ---
 
 ## 📫 Connect With Me
